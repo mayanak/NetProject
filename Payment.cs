@@ -2,6 +2,6 @@ public calss Shopping :IPayment
 {
 public string PaymentByType(string typeName)
 {
-  return  "From Shooping class";
+  return  "From Shooping class new testing";
 }
 }
