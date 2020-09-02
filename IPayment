@@ -1,4 +1,4 @@
 Public Interface IPaymentType
 {
-  string PaymentByType(string typeName);
+  string PaymentByType(string typeName123);
 }
